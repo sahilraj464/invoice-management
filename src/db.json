@@ -1,0 +1,13 @@
+{
+    "invoices": [
+      {
+        "id": 1,
+        "invoiceNumber": "INV001",
+        "clientName": "John Doe",
+        "date": "2025-01-01",
+        "amount": 100,
+        "status": "Paid"
+      }
+    ]
+  }
+  
